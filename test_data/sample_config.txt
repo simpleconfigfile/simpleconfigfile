@@ -1,0 +1,18 @@
+# This is a comment, ignore it
+
+host = test.com
+
+user = user
+
+# More comments
+
+log_file_path = /tmp/logfile.log
+
+verbose = true
+concise = false
+test_mode = on
+
+# Test corner cases
+test = my = value
+=
+ =
